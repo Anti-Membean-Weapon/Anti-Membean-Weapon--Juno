@@ -7,7 +7,7 @@ $(document).ready(function(){
 	   			$("#cp").val("1");
 	   	}
 	   	if($("#cp").val() > 0 && $("#cp").val() < 101 ){
-	   //	chrome.extension.sendMessage($("#cp").val());
+	   	
 	   }
 	});
 });
