@@ -4,19 +4,22 @@
   "name": "Anti-Membean Weapon: Juno",
   "description": "Provides features to help students complete their membean.com homework!",
   "version": "2.0.1",
-
-  "browser_action": {
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "page_action": {
     "default_icon": "favicon.png",
     "default_popup": "popup.html",
     "default_title": "Get Started"
   },
   "permissions": [
-    "activeTab"
+    "tabs"
   ],
   "content_scripts": [
     {
         "matches": ["http://*/*", "https://*/*"],
-        "js": ["jquery.js", "background.js"]
+        "js": ["jquery.js", "content.js"]
     }
 ]
 }
