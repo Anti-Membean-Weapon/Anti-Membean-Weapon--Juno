@@ -1,6 +1,5 @@
 # Anti-Membean Weapon: Juno
-Provides features to help students complete their membean.com homework!
-<p>The Anti-Membean Weapon has been rebuilt from the ground up! We have added new features to make your membean hacking experience more comfortable and pain free!</p>
+<p>The Anti-Membean Weapon has been rebuilt from the ground up! We have added new features that exploit some of membean programming flaws.</p>
 <ul><h3>New Features:</h3>
   <li>Chooses the correct answer only 70% of the time! Making your session look much more believable</li>
   <li>Chooses the answer between 3.7 seconds and 13 seconds, the number is different each time it answers!</li>
@@ -21,4 +20,4 @@ Provides features to help students complete their membean.com homework!
 </ol>
 # Troubleshooting
 <p>If the weapon isn't working, make sure to check that you did #7 in the tutorial. Additionally, you may get a notice from chrome saying to disable developer mode for security reasons, if you want to use the weapon, don't click it.</p>
-<strong> Please note that this is intended as a technical demonstration, it is not intended to be used as a way to cheat membean. We do not encourage cheating on membean. By downloading you accept all risk with using this software.</strong> 
+<strong> Please note that this is intended as a technical demonstration, it is not intended to be used as a way to cheat membean. We do not encourage cheating on membean. By downloading you accept all risk with using this software. We hope this leads to a membean that is resistant of these kinds of "hacks".</strong> 
