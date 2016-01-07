@@ -21,4 +21,4 @@ Provides features to help students complete their membean.com homework!
 </ol>
 # Troubleshooting
 <p>If the weapon isn't working, make sure to check that you did #7 in the tutorial. Additionally, you may get a notice from chrome saying to disable developer mode for security reasons, if you want to use the weapon, don't click it.</p>
-<strong> Please note that this is intended as a technical demonstration. We do not encourage cheating on membean. By downloading you accept all risk with using this software.</strong> 
+<strong> Please note that this is intended as a technical demonstration, it is not intended to be used as a way to cheat membean. We do not encourage cheating on membean. By downloading you accept all risk with using this software.</strong> 
