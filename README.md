@@ -5,7 +5,8 @@
   <li>Chooses the answer between 3.7 seconds and 13 seconds, the number is different each time it answers!</li>
   <li>Fixed bug where program wouldn't initialize! If the program never worked for you, this was the reason!</li>
 </ul>
-<p>Membean tried to fight back, they changed their site to combat our weapon! We have finally succeed in making a new one, this program works with membean as of 1/5/16. <strong>It only works for google chrome</strong> and has only been tested on windows.</p>
+<strong> Please note that this is intended as a technical demonstration, it is not intended to be used as a way to cheat membean. We do not encourage cheating on membean. By downloading you accept all risk with using this software. We hope this leads to a membean that is resistant of these kinds of "hacks".</strong> 
+<p>This program works with membean as of 1/5/16. <strong>It only works for google chrome</strong> and has only been tested on windows.</p>
 # Tutorial
 <small>This tutorial is designed for windows users, but it should work in theory for mac users</small>
 <ol>
